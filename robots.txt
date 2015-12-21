@@ -1,4 +1,1 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://paweldudek.github.io/sitemap.xml 
+User-agent: *\nDisallow:

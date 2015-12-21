@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title> on Pawel Dudek </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Sat, 19 Dec 2015 20:10:22 CET</updated>
+    
+    <item>
+      <title>Tightening your cycles</title>
+      <link>http://localhost:1313/post/cycles/</link>
+      <pubDate>Sat, 19 Dec 2015 20:10:22 CET</pubDate>
+      
+      <guid>http://localhost:1313/post/cycles/</guid>
+      <description>BDD is about constant feedback. Constant feedback about the code you write. Constant feedback whether your last refactor broke something, or whether everything works as expected. Your tests are here to tell you whether everything is OK. The sooner you get that feedback the better. By receiving information about state of your system as soon as possible you keep your flow uninterrupted. You stay focused on the task that you&amp;rsquo;re currently trying to complete.</description>
+    </item>
+    
+    <item>
+      <title>Speaking</title>
+      <link>http://localhost:1313/speaking/</link>
+      <pubDate>Sat, 19 Dec 2015 18:38:33 CET</pubDate>
+      
+      <guid>http://localhost:1313/speaking/</guid>
+      <description>I&amp;rsquo;ve always perceived sharing knowledge as a way of giving back to the community for what I&amp;rsquo;ve learned from it. That&amp;rsquo;s why I love speaking and sharing what I&amp;rsquo;ve learned over the course of my career.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 19 Dec 2015 18:10:51 CET</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
+
