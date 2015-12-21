@@ -3,7 +3,7 @@
   <channel>
       <title>Posts on Pawel Dudek </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/post/</link>
+    <link>http://paweldudek.github.io/post/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Tightening your cycles</title>
-      <link>http://localhost:1313/post/cycles/</link>
+      <link>http://paweldudek.github.io/post/cycles/</link>
       <pubDate>Sat, 19 Dec 2015 20:10:22 CET</pubDate>
       
-      <guid>http://localhost:1313/post/cycles/</guid>
+      <guid>http://paweldudek.github.io/post/cycles/</guid>
       <description>BDD is about constant feedback. Constant feedback about the code you write. Constant feedback whether your last refactor broke something, or whether everything works as expected. Your tests are here to tell you whether everything is OK. The sooner you get that feedback the better. By receiving information about state of your system as soon as possible you keep your flow uninterrupted. You stay focused on the task that you&amp;rsquo;re currently trying to complete.</description>
     </item>
     
